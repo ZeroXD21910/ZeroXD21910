@@ -1,5 +1,5 @@
 <div id="header" align="center">
-<img src="https://media.giphy.com/media/gfYXjXTyxDGpRkbl7d/giphy.giff"200" />
+<img src="https://media.giphy.com/media/gfYXjXTyxDGpRkbl7d/giphy.gif"200" />
 <h1 align="center"> Zero</h1>
 </div>
 
