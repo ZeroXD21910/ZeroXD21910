@@ -8,3 +8,9 @@
         <img src="https://img.shields.io/youtube/channel/subscribers/Zero?style=social" alt="youtube badges" />
     </a>
 </div>
+
+---
+
+<div id="badges" align="center">
+    
+</div>
